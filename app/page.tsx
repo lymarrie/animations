@@ -42,7 +42,7 @@ export default function Home() {
                 >
                   <div className="space-y-6">
                     <div className="font-bold text-2xl">Intersection Observer API</div>
-                    <p className="text-lg">The Intersection Observer API provides a way to asynchronously observe changes in the intersection of a target element with an ancestor element or with a top-level document's viewport.</p>
+                    <p className="text-lg">The Intersection Observer API provides a way to asynchronously observe changes in the intersection of a target element with an ancestor element or with a top-level document&apos;s viewport.</p>
                     <img
                       src="https://www.mozilla.org/media/protocol/img/logos/mozilla/logo-word-hor.e20791bb4dd4.svg"
                       className="flex mx-auto py-4 w-1/2 md:w-2/3"
